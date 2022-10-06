@@ -7,6 +7,7 @@
 
 # Descrição
 O código foi desenvolvido em NodeJS, então o professor precisa ter as dependências do Node no computador para poder faze-lo funcionar.
+Rodar o `comando npm i` para instalar as dependencias.
 
 # Como rodar
 Existem 5 funções criadas:
