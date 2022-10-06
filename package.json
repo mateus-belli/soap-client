@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "node": "^18.10.0",
+    "soap": "^0.45.0"
+  },
+  "scripts": {
+    "describe": "node index.js describe",
+    "add": "node index.js add",
+    "subtract": "node index.js subtract",
+    "multiply": "node index.js multiply",
+    "divide": "node index.js divide"
+  }
+}
