@@ -1,9 +1,9 @@
 # Autores
-- Ana Karolina
-- Isabela Santos
+- Ana Karolina de Souza Soares
+- Maria Isabela dos Santos Silva
 - Mateus Belli
-- Ruth Gomes
-- Yohana
+- Ruth Gabrielle Ferreira Gomes
+- Yohana Dos Santos Alves
 
 # Descrição
 O código foi desenvolvido em NodeJS, então o professor precisa ter as dependências do Node no computador para poder faze-lo funcionar.
