@@ -68,9 +68,3 @@ function divide(intA, intB) {
         })
     })
 }
-
-// describe()
-// add(10, 20)
-// subtract(10, 20)
-// multiply(20, 10)
-// divide(20, 20)
